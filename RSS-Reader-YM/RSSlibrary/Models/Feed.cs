@@ -10,24 +10,24 @@ namespace RSSlibrary.Models
     {
         public string FeedID { get; set; } = string.Empty;
 
-        public string title { get; set; } = string.Empty;
+        public string Title { get; set; } = string.Empty;
 
-        public string link { get; set; } = string.Empty;
+        public string Link { get; set; } = string.Empty;
 
-        public string description { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
 
-        public Beitrag b { get; set; }
+        public Beitrag B { get; set; }
 
         public Feed(string title, string FeedID, string link) 
         { 
             this.FeedID = Guid.NewGuid().ToString();
-            this.title = title;
+            this.Title = title;
             this.FeedID = FeedID;
-            this.link = link;
-            this.b = new Beitrag();
+            this.Link = link;
+            this.B = new Beitrag();
         }
 
 
-
+        
     }
 }

@@ -4,13 +4,13 @@
     {
         public Guid BeitragID { get; set; }
 
-        public string link { get; set; }
+        public string Link { get; set; } = string.Empty;
 
-        public string title { get; set; }
+        public string Title { get; set; } = string.Empty;
 
-        public string description { get; set; }
+        public string Description { get; set; } = string.Empty;
 
-        public DateTime pubDate { get; set; }
+        public DateTime PubDate { get; set; }
 
 
     }
