@@ -9,15 +9,17 @@ namespace RSSlibrary.Interfaces
 {
     public interface IRepository 
     {
-        bool Download(string url);
+        bool SaveFeed(Feed feed);
 
-        bool Save();
-
-        List<Beitrag> Load();
+        List<Beitrag> Download(string url);
 
         bool Favourite(Beitrag B);
 
-        bool IsRead();
+        bool IsRead(bool status);
+
+        bool IsNotRead(bool status);
+
+        bool SaveReadBeitrag(Beitrag B, bool status);
 
         
 

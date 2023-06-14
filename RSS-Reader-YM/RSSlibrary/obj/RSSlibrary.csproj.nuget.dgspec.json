@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Max\\Git\\RSS-Reader-YM\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj": {}
+    "C:\\Users\\Maximilian\\Git\\RSS-Reader\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Max\\Git\\RSS-Reader-YM\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj": {
+    "C:\\Users\\Maximilian\\Git\\RSS-Reader\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Max\\Git\\RSS-Reader-YM\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Maximilian\\Git\\RSS-Reader\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj",
         "projectName": "RSSlibrary",
-        "projectPath": "C:\\Users\\Max\\Git\\RSS-Reader-YM\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj",
-        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Max\\Git\\RSS-Reader-YM\\RSS-Reader-YM\\RSSlibrary\\obj\\",
+        "projectPath": "C:\\Users\\Maximilian\\Git\\RSS-Reader\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj",
+        "packagesPath": "C:\\Users\\Maximilian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maximilian\\Git\\RSS-Reader\\RSS-Reader-YM\\RSSlibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maximilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
