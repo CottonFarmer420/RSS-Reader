@@ -13,9 +13,13 @@ namespace RSSlibrary.Interfaces
 
         bool Save();
 
-        List<Beitrag> Beitraege();
+        List<Beitrag> Load();
 
         bool Favourite(Beitrag B);
+
+        bool IsRead();
+
+        
 
 
 
