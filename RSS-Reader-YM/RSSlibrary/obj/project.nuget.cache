@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rjeYyN3baFymX4lpJSDADka3Rvz5gz7MaoG5EsM1E7AnqlPIh4Sae6RJAxCeRVc5p6kPfYqC5Kk0ncTsL0ZPAQ==",
+  "dgSpecHash": "4XEFAtnG4Bzhx+kF5lHp2loYnfF5S+qaqPJVVsucFuUMsF/LiTz7AdyT9pdRPZaPmdmAtI0Gn+nE509Tu5o34g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Maximilian\\Git\\RSS-Reader\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Maximilian\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Maximilian\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Maximilian\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Maximilian\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

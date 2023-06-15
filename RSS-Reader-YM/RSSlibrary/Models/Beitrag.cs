@@ -10,17 +10,24 @@
 
         public string PubDate { get; set; } = string.Empty;
 
+        public string Img { get; set; } = string.Empty;
+
         public bool Status { get; set; } = false;
 
-        public Beitrag(string url, string title, string description, string PubDate, bool status)
+        public Beitrag(string url, string title, string description, string PubDate, bool status, string img)
         {
             this.URL = url;
             this.Title = title;
             this.Description = description;
             this.PubDate = PubDate;
             this.Status = status;
+            this.Img = img;
         }
 
+        public Beitrag()
+        {
+
+        }
 
     }
 }

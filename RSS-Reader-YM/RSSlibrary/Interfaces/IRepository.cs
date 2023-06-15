@@ -21,7 +21,8 @@ namespace RSSlibrary.Interfaces
 
         bool SaveReadBeitrag(Beitrag B, bool status);
 
-        
+        //Feed löschen links
+
 
 
 

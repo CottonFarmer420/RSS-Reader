@@ -1,0 +1,12 @@
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\bin\Debug\net6.0\RSSlibrary.deps.json
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\bin\Debug\net6.0\RSSlibrary.dll
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\bin\Debug\net6.0\RSSlibrary.pdb
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\obj\Debug\net6.0\RSSlibrary.csproj.AssemblyReference.cache
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\obj\Debug\net6.0\RSSlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\obj\Debug\net6.0\RSSlibrary.AssemblyInfoInputs.cache
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\obj\Debug\net6.0\RSSlibrary.AssemblyInfo.cs
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\obj\Debug\net6.0\RSSlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\obj\Debug\net6.0\RSSlibrary.dll
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\obj\Debug\net6.0\refint\RSSlibrary.dll
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\obj\Debug\net6.0\RSSlibrary.pdb
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\RSSlibrary\obj\Debug\net6.0\ref\RSSlibrary.dll
