@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db883a06-af9d-4af7-96e9-18df490d3603": {
+      "ProjectGuid": "db883a06-af9d-4af7-96e9-18df490d3603",
+      "DisplayName": "Cli",
+      "ColorIndex": 0
+    },
+    "10e60fbe-7b6b-46a8-8917-3ff9dbddd7d5": {
+      "ProjectGuid": "10e60fbe-7b6b-46a8-8917-3ff9dbddd7d5",
+      "DisplayName": "RSSlibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -13,7 +13,7 @@ namespace RSSlibrary.Services
     {
         public List<Beitrag> Download(string url)
         {
-            
+            throw new NotImplementedException();
         }
 
         public bool Favourite(Beitrag B)
@@ -23,12 +23,12 @@ namespace RSSlibrary.Services
 
         public bool IsNotRead(bool status)
         {
-            return false;
+            throw new NotImplementedException();
         }
 
         public bool IsRead(bool status)
         {
-            return true;
+            throw new NotImplementedException();
         }
 
         public bool SaveFeed(Feed feed)

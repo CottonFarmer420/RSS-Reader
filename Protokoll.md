@@ -8,6 +8,8 @@
 |                                           Library überarbeitet                                            | Yusuf dran gearbeitet                               | 31.05.2023 12:20-13:10 |
 |                                          XML-Repository erstellt                                          | Maximilian                                          | 01.06.2023 8:00-8:30   |
 |                 Tätigkeitsprotokoll komplett verändert anderes Layout besser zum erkennen                 | Yusuf                                               | 01.06.2023 8:00-8:30   |
-|                                      Tätigkeitsprotokoll hochgeladen                                      | Maximilian                                          | 14.06.2023 15:30       |
+|                                      Tätigkeitsprotokoll hochgeladen                                      | Maximilian                                          | 14.06.2023 15:30:15:31 |
 |                                    Grobes Design in Adobe XD erstellt                                     | Maximilian & Yusuf                                  | 14.06.2023 16:30-17:20 |
 | Änderungen in Klassen, Interface und im Design vorgenommen, Konsolen-App zu diversen Testzwecken erstellt | Maximilian                                          | 14.06.2023 17:20-17:50 |
+|                                                Xml beendet                                                | Maximilian                                          | 15.06.2023 16:00-00:00 |
+|                                       Grafische oberfläche beendet                                        | Yusuf                                               | 15.06.2023 16:00-00:00 |
