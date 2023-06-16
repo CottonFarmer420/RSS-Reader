@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+    <ScrollView>
+        
+    <Grid RowDefinitions="auto,auto, *" ColumnDefinitions="*,*,70" Margin="10">
+        <StackLayout Grid.ColumnSpan="1">
+            <Entry Text="Gib dein RSS-Link ein"/>
+        </StackLayout>
+        <Label Grid.Column="0" Grid.Row="1"  Text="titel muss gebindet werden!!!"/>
+            <ImageButton Grid.Column="1" Grid.Row="1" HeightRequest="45" WidthRequest="45" Source="filtern.png" IsEnabled="True"/>
+            <ImageButton Grid.Column="2" HeightRequest="35" WidthRequest="35" Source="darkmarode.png" IsEnabled="True"/>
+            <CollectionView Grid.Row="3" >
+                <CollectionView.EmptyView>
+                    <Label Text="Keine Rss feed "/>
+                </CollectionView.EmptyView>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <Label Text="{Binding Autor, StringFormat='Autor: {0}'}" FontAttributes="Bold"/>
+                            <Label Text="{Binding Titel, StringFormat='Titel: {0}'}" FontAttributes="Bold"/>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
+        
+
+
+
+
+
+
+
+    </ScrollView>
+</ContentPage>

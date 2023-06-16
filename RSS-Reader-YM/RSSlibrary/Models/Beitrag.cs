@@ -12,12 +12,12 @@
 
         public bool Status { get; set; } = false;
 
-        public Beitrag(string url, string title, string description, string PubDate, bool status)
+        public Beitrag(string url, string title, string description, string pubDate, bool status)
         {
             this.URL = url;
             this.Title = title;
             this.Description = description;
-            this.PubDate = PubDate;
+            this.PubDate = pubDate;
             this.Status = status;
         }
 
