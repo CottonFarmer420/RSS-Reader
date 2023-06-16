@@ -7,8 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSSlibrary", "RSSlibrary\RS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cli", "Cli\Cli.csproj", "{DB883A06-AF9D-4AF7-96E9-18DF490D3603}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "MauiApp1\MauiApp1.csproj", "{FF1AE16F-0932-412C-B21E-AA978CFA99F6}"
 EndProject
+=======
+>>>>>>> d02ffa8f4836e308a0743ecc7611ce6a4c18d724
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +26,15 @@ Global
 		{DB883A06-AF9D-4AF7-96E9-18DF490D3603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB883A06-AF9D-4AF7-96E9-18DF490D3603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB883A06-AF9D-4AF7-96E9-18DF490D3603}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{FF1AE16F-0932-412C-B21E-AA978CFA99F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FF1AE16F-0932-412C-B21E-AA978CFA99F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF1AE16F-0932-412C-B21E-AA978CFA99F6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{FF1AE16F-0932-412C-B21E-AA978CFA99F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF1AE16F-0932-412C-B21E-AA978CFA99F6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FF1AE16F-0932-412C-B21E-AA978CFA99F6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+=======
+>>>>>>> d02ffa8f4836e308a0743ecc7611ce6a4c18d724
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

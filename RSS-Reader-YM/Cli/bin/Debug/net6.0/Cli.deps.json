@@ -6,17 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "RSSlibrary/1.0.0": {
-<<<<<<< HEAD
-        "runtime": {
-          "RSSlibrary.dll": {}
-        }
-=======
+      "Cli/1.0.0": {
         "dependencies": {
-          "RestSharp": "110.2.0"
+          "RSSlibrary": "1.0.0"
         },
         "runtime": {
-          "RSSlibrary.dll": {}
+          "Cli.dll": {}
         }
       },
       "RestSharp/110.2.0": {
@@ -61,17 +56,22 @@
             "fileVersion": "7.0.323.6910"
           }
         }
->>>>>>> d02ffa8f4836e308a0743ecc7611ce6a4c18d724
+      },
+      "RSSlibrary/1.0.0": {
+        "dependencies": {
+          "RestSharp": "110.2.0"
+        },
+        "runtime": {
+          "RSSlibrary.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "RSSlibrary/1.0.0": {
+    "Cli/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
-<<<<<<< HEAD
-=======
     },
     "RestSharp/110.2.0": {
       "type": "package",
@@ -100,7 +100,11 @@
       "sha512": "sha512-/LZf/JrGyilojqwpaywb+sSz8Tew7ij4K/Sk+UW8AKfAK7KRhR6mKpKtTm06cYA7bCpGTWfYksIW+mVsdxPegQ==",
       "path": "system.text.json/7.0.2",
       "hashPath": "system.text.json.7.0.2.nupkg.sha512"
->>>>>>> d02ffa8f4836e308a0743ecc7611ce6a4c18d724
+    },
+    "RSSlibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

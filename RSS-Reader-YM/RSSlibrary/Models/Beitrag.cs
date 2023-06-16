@@ -21,6 +21,10 @@
             this.Status = status;
         }
 
+        public Beitrag()
+        {
+
+        }
 
     }
 }

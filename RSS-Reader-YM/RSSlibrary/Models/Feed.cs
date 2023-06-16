@@ -9,14 +9,14 @@ namespace RSSlibrary.Models
     public class Feed
     {
 
-        public string Title { get; set; } = string.Empty;
+        public string FeedTitle { get; set; } = string.Empty;
 
-        public string URL { get; set; } = string.Empty;
+        public string FeedURL { get; set; } = string.Empty;
 
-        public Feed(string title, string description, string url) 
+        public Feed(string feedtitle, string description, string feedurl) 
         { 
-            this.Title = title;
-            this.URL = url;
+            this.FeedTitle = feedtitle;
+            this.FeedURL = feedurl;
         }
 
 
