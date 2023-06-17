@@ -1,20 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4XEFAtnG4Bzhx+kF5lHp2loYnfF5S+qaqPJVVsucFuUMsF/LiTz7AdyT9pdRPZaPmdmAtI0Gn+nE509Tu5o34g==",
+  "dgSpecHash": "v9THEEDB8Z11D30eJWsQMLAdYB8qEU2DLRX4BdD1sSTWSJZWNkbKVjBNFAt9yEkoHpYRvRmlIcSRPNPeEofh1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maximilian\\Git\\RSS-Reader\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj",
+  "projectFilePath": "C:\\Users\\umurb\\OneDrive\\Desktop\\RSS-Reader\\RSS-Reader-YM\\RSSlibrary\\RSSlibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Maximilian\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
-    "C:\\Users\\Maximilian\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\Maximilian\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\Maximilian\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+    "C:\\Users\\umurb\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\umurb\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\umurb\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\umurb\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem beim Lesen der Cachedatei \"C:\\Users\\Maximilian\\Git\\RSS-Reader\\RSS-Reader-YM\\RSSlibrary\\obj\\project.nuget.cache\": Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

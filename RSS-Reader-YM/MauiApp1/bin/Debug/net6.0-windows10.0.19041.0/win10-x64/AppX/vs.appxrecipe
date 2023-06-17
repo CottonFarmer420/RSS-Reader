@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\umurb\OneDrive\Desktop\RSS-Reader\RSS-Reader-YM\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-06-16T17:31:25.788</Modified>
+      <Modified>2023-06-17T12:00:53.730</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\umurb\OneDrive\Desktop\RSS-Reader\RSS-Reader-YM\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiApp1.dll">
       <PackagePath>MauiApp1.dll</PackagePath>
-      <Modified>2023-06-16T17:31:24.809</Modified>
+      <Modified>2023-06-17T12:00:52.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\umurb\OneDrive\Desktop\RSS-Reader\RSS-Reader-YM\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApp1.exe</PackagePath>
-      <Modified>2023-06-16T17:31:24.820</Modified>
+      <Modified>2023-06-17T12:00:52.394</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\umurb\OneDrive\Desktop\RSS-Reader\RSS-Reader-YM\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiApp1.deps.json">
       <PackagePath>MauiApp1.deps.json</PackagePath>
