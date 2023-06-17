@@ -1,0 +1,1 @@
+C:\Users\Maximilian\Git\RSS-Reader\RSSLibrary\RSS-MAUI\RSS-MAUI.csproj;x64
