@@ -1,12 +1,15 @@
-﻿namespace MauiApp1
+﻿using MauiApp1.ViewModels;
+
+namespace MauiApp1
 {
     public partial class MainPage : ContentPage
     {
      
 
-        public MainPage()
+        public MainPage(MainViewModel mainviewmodel)
         {
             InitializeComponent();
+            this.BindingContext = mainviewmodel;
         }
 
       

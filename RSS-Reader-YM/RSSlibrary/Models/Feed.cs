@@ -19,6 +19,11 @@ namespace RSSlibrary.Models
             this.FeedURL = feedurl;
         }
 
+        public Feed()
+        {
+
+        }
+
 
         
     }

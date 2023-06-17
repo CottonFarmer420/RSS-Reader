@@ -1,1 +1,1 @@
-C:\Users\umurb\OneDrive\Desktop\RSS-Reader\RSS-Reader-YM\MauiApp1\MauiApp1.csproj;x64
+C:\Users\Maximilian\Git\RSS-Reader\RSS-Reader-YM\MauiApp1\MauiApp1.csproj;x64
